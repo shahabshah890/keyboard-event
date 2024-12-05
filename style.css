@@ -1,0 +1,41 @@
+body{
+    font-family: tahoma;
+    background: url(./ba229274c35f241d380824439aa70087.jpg);
+    background-size: 30%;
+    color: aliceblue;
+    margin: 160px 0 0 100px;
+    
+    
+    
+}
+.para{
+    font-size: 22px;
+    color:black
+}
+#h1{
+    font-size: 30px;
+    color: whitesmoke;
+}
+#form{
+    width: 250px;
+    margin: 100px auto 0 auto;
+    border: 2px solid #000;
+    border-radius: 15px;
+    padding: 30px;
+    background-color: rgba(0, 176, 183, 0.4);
+    color: #fff;
+    box-shadow: 5px 5px 15px #000;
+
+}
+p,input{
+    font-size: 16px;
+}
+input{
+    width: 205px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 8px;
+    background-color: #fff;
+    box-shadow: inset-2px 2px 10px #000;
+
+}
